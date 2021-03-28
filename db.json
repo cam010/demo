@@ -1,5 +1,5 @@
 {
-  "states": {
+  "states": [
     {
       "name": "Alabama",
       "abbreviation": "AL"
@@ -24,5 +24,10 @@
       "name": "Colorado",
       "abbreviation": "CO"
     }
-  } 
+  ]
+  "lol": [
+    {
+      "lol2": "lol3"          
+    }
+  ]
 }
